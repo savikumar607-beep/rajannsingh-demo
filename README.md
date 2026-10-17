@@ -1,4 +1,4 @@
 # rajannsingh-demo
 THIS IS MY FISRT REPOSITORY
 <br>
-AUTHOR-RAJAN SINGH
+AUTHOR-RAJAN (apan college)
