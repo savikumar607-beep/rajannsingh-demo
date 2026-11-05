@@ -1,6 +1,5 @@
 /*
 ## Move Zeroes – DSA Problem
-   leetcode: https://leetcode.com/problems/move-zeroes/
 
 **Problem Description:**
 
@@ -20,7 +19,11 @@ The operation must be performed in-place without making a copy of the array.
 
 **Language:** C++
 
-**Topic:** Arrays | Two Pointers | In-place Algorithm*/
+**Topic:** Arrays | Two Pointers | In-place Algorithm
+
+leetcode :- 283 
+
+*/
 
 #include <iostream>
 #include <vector>
