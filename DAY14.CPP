@@ -1,6 +1,6 @@
 /*
 
- Qn : Count Partitions with Even Sum Difference
+ Qn : difrrence between sun and eve
 
  Approach :-
  > First calculate the total sum of the array.
