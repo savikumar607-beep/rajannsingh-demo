@@ -22,8 +22,17 @@ vector<int> concatReverse(vector<int>& nums){
         ans.push_back(nums[i]);
     }
     // append the reverse array element 
-    for(int i = nums.size() - 1; i>=0; i++){
+    for(int i = nums.size() - 1; i>=0; i--){
         ans.push_back(nums[i]);
     }
     return ans;
+}
+int main(){
+    vector<int> nums = {1,2,3};
+    vector<int> ans = concatReverse(nums);
+    cout<<"ans = ";
+    for(auto value: ans){
+        cout<< value << " ";
+    }
+    return 0;
 }
